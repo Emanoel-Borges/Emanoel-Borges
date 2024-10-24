@@ -3,7 +3,7 @@
 - 🌱 I’m currently cursando Sistemas de Informação
 - 💻 I’m looking to collaborate com soluções para desafios reais
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Emanoel. </h2>
 
 ###
 
@@ -13,8 +13,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
